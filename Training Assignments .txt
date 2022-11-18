@@ -1,0 +1,13 @@
+Training Assignments 
+
+Git and SQL Assignments: https://github.com/asmita-git/Assignments
+
+CSharp Assignments :https://github.com/asmita-git/CSharpAssignments
+
+Dot-net-Assignments :https://github.com/asmita-git/Dot-net-Assignments-
+
+HTML, CSS AND JAVASCRIPT ASSIGNMENTS: https://github.com/asmita-git/HTML-CSS-AND-JAVASCRIPT-ASSIGNMENTS-
+
+ANGULAR-ASSIGNMENTS-: https://github.com/asmita-git/ANGULAR-ASSIGNMENTS-
+
+Azure-Assignments-Labs: https://github.com/asmita-git/Azure-Assignments-Labs
