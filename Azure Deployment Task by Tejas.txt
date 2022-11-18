@@ -1,0 +1,10 @@
+Deployment on PaaS using Azure app service
+
+Backend Deployed In Azure
+Link :https://flightbookingwebapi.azurewebsites.net/index.html
+
+FrontEnd Deployment on Azure 
+FrontEnd Link : https://flightbookingsystemazureapp.azurewebsites.net/
+
+Deployment on PaaS using Azure app service Documents 
+https://github.com/asmita-git/PaaSDeploymentDocmuents
