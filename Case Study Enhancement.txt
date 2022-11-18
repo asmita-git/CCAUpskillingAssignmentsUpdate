@@ -1,0 +1,15 @@
+Case Study Enhancement
+
+Case Study:Flight Booking System
+
+
+Search method Added 
+
+user can Search origin and destination Fight by entering Keyword.
+User can Search any perticular City by entering city name or Flight Id .
+
+Example:
+Suppose User Enter City Punethen Showing All avalibale Flights of pune
+ 
+
+  
